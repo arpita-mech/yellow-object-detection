@@ -2,6 +2,25 @@ MIT License
 
 Copyright (c) 2025 arupoonia
 
+
+---
+
+You can now:
+
+1. Save that text to `README.md`
+2. Save the three requirements in `requirements.txt`
+3. Add, commit, and push:
+
+```bash
+git add README.md requirements.txt
+git commit -m "Added clean README and requirements"
+git push origin main
+
+
+
+
+
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
